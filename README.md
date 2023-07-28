@@ -1,4 +1,4 @@
-# codsoft_task_2_WordCounter
+# Codsoft task:2 Word Counter
 
 1. Prompt the user to enter a text or provide a file to count the words.
 2. Read the input text or file and store it in a string.
